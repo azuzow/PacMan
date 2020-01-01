@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="127e3d0c-2d70-410a-aad2-31c98f7ad9ad" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inspawn</find>
+      <find>xAxis</find>
+      <find>lastAxisY</find>
+      <find>xAxisVisual =</find>
+      <find>xSpawnVisual</find>
+      <find>powerUp</find>
+      <find>mapLayout.getPacManAlive();</find>
+      <find>getMapPositions</find>
+      <find>setMapPosition</find>
+      <find>xAxisVisualSpawn</find>
+      <find>temp</find>
+      <find>6</find>
+      <find>5</find>
+      <find>insp</find>
+      <find>ghostY</find>
+      <find>mapLayout.setPacManAlive(true);</find>
+      <find>ySpawnMap</find>
+      <find>ySpawnMap-3</find>
+      <find>alive</find>
+      <find>ySpawnMap - 3</find>
+      <find>goi</find>
+      <find>xAxisVisual</find>
+      <find>pacManAlive</find>
+      <find>--</find>
+      <find>goingToSpawn</find>
+      <find>2</find>
+      <find>lives</find>
+      <find>getGhostx</find>
+      <find>getGhostX</find>
+      <find>1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>super.getMapLayout()</replace>
+      <replace>mapLayout</replace>
+      <replace>public</replace>
+      <replace>xAxisVisual</replace>
+      <replace>lastAxisYVisual</replace>
+      <replace>ySpawnMap</replace>
+      <replace>getCharacterX</replace>
+    </replaceStrings>
+  </component>
+  <component name="ProjectId" id="1VnD872qA1T3DPD4yfzSO0tyBlp" />
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/ayylmao/Documents/JAVA Projects/PacMan 2016/src/com/company/Ghost.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ayylmao\Documents\JAVA Projects\PacMan 2016\Resources" />
+      <recent name="C:\Users\ayylmao\Documents\JAVA Projects\PacMan 2016" />
+      <recent name="C:\Users\ayylmao\Documents\JAVA Projects\PacMan 2016\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ayylmao\Documents\JAVA Projects\PacMan 2016\src\com\company" />
+      <recent name="C:\Users\ayylmao\Documents\JAVA Projects\PacMan 2016" />
+      <recent name="C:\Users\ayylmao\Documents\JAVA Projects\PacMan 2016\src" />
+      <recent name="C:\Users\ayylmao\Documents\JAVA Projects\PacMan 2016\Resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="PacMan 2016" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in PacMan 2016" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PacMan 2016" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.All in PacMan 2016" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.All in PacMan 2016" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="127e3d0c-2d70-410a-aad2-31c98f7ad9ad" name="Default" comment="" />
+      <created>1527552733675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527552733675</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+</project>
